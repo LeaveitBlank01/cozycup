@@ -15,11 +15,11 @@ Cozy Cup Café is a modern and user-friendly web application designed to enhance
 
 ## Screen Captures
 ### 1. **Homepage**
-![Homepage Screenshot](/cozycup/img/home.png)  
+![Homepage Screenshot](/img/home.png)  
 *The homepage welcomes visitors with a warm design and easy navigation.*
 
 ### 2. **Menu Page**
-![Menu Screenshot](/cozycup/img/menu.png)
+![Menu Screenshot](/img/menu.png)
 *Displays the full menu with interactive ui.*
 
 
@@ -27,12 +27,12 @@ Cozy Cup Café is a modern and user-friendly web application designed to enhance
 ---
 
 ## About the Authors
-<img src="cozycup/img/mark.jpg" alt="Your Image" width="150" style="border-radius: 50%; display: block; margin-bottom: 10px;" />
+<img src="img/mark.jpg" alt="Your Image" width="150" style="border-radius: 50%; display: block; margin-bottom: 10px;" />
 
 **Name**: Mark Cristobal Avellana    
 **Email**: markavellana09@gmail.com
 
-<img src="cozycup/img/kenneth.jpg" alt="Your Image" width="150" style="border-radius: 50%; display: block; margin-bottom: 10px;" />
+<img src="img/kenneth.jpg" alt="Your Image" width="150" style="border-radius: 50%; display: block; margin-bottom: 10px;" />
  
 **Name**: John Kenneth Lachica     
 **Email**: kennethlachica@gmail.com
