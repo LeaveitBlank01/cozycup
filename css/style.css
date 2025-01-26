@@ -189,16 +189,32 @@ footer .footer-content {
     padding: 20px 0;
 }
 
-footer .social-media a img {
-    width: 24px;
-    margin: 0 10px;
-    transition: transform 0.3s;
+footer .social-media ul {
+    display: flex;
+    gap: 15px;
+    padding: 0;
+    list-style: none;
 }
 
-footer .social-media a img:hover {
-    transform: scale(1.2);
+footer .social-media li {
+    font-size: 24px;
 }
 
+footer .social-media a {
+    text-decoration: none;
+    color: white;
+    transition: color 0.3s;
+}
+
+footer .social-media a:hover {
+    color: #7e685b;
+}
+
+footer .social-media a i {
+    font-size: 30px;
+}
+
+/* Newsletter Section */
 footer .newsletter input {
     padding: 10px;
     border: none;
@@ -220,6 +236,7 @@ footer .newsletter button {
 footer .newsletter button:hover {
     background-color: #4c3c32;
 }
+
 
 /* Responsive Design */
 @media (max-width: 768px) {
