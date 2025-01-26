@@ -40,7 +40,7 @@ Cozy Cup Café is a modern and user-friendly web application designed to enhance
 ---
 
 ## Social Media
-[![Facebook](/cozycup/img/Facebook_black.png)](https://facebook.com/Hideenvy)
-[![GitHub](/cozycup/img/Github_black.png)](https://github.com/LeaveitBlank01)
+[![Facebook](/img/Facebook_black.png)](https://facebook.com/Hideenvy)
+[![GitHub](/img/Github_black.png)](https://github.com/LeaveitBlank01)
 
 
